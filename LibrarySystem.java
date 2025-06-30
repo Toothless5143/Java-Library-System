@@ -12,7 +12,7 @@ public class LibrarySystem {
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("Welcome to the UoPeople Library System!");
+        System.out.println("Welcome to the Java Library System!");
 
         while (true) {
             displayMenu();
